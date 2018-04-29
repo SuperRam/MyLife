@@ -1,0 +1,22 @@
+body{
+	background: #666;
+	color:#ffffff;
+	font-family: arial;
+}
+
+a{
+	color:#ffffff;
+	text-decoration: null;
+}
+ul{
+
+	padding:0;
+}
+#container{
+background: #333;
+width: 960px;
+margin:30px auto;
+overflow: hidden;
+padding: 10px;
+
+}
